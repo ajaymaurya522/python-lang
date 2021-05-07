@@ -13,3 +13,4 @@ django-debug-toolbar==1.9.1
 coverage
 ddt
 model-bakery==1.2.0
+django>=2.2.22 # not directly required, pinned by Snyk to avoid a vulnerability
